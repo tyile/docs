@@ -19,14 +19,14 @@
           {
             "group": "Marshal-Service",
             "pages": [
-              "index",
-              "reseller/reseller"
+              "docs/marshal-service/introduction",
+              "docs/reseller"
             ]
           },
           {
             "group": "利用規約・注意事項",
             "pages": [
-              "Tos/tos"
+              "docs/tos"
             ]
           },
           {
@@ -62,16 +62,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "利用規約",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
