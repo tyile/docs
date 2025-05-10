@@ -2,7 +2,9 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Marshal Service Docs",
-  "bacground": "gradient",
+  "background": {
+    "decoration": "gradient"
+  },
   "colors": {
     "primary": "#FF5050",
     "light": "#FF5050",
