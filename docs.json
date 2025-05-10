@@ -11,14 +11,12 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Main",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Marshal-Service",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
