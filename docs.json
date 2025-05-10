@@ -6,7 +6,7 @@
     "decoration": "gradient"
   },
   "colors": {
-    "primary": "#EF4444",
+    "primary": "#FF5050",
     "light": "#FF5050",
     "dark": "#821515"
   },
@@ -46,6 +46,17 @@
               "essentials/settings",
               "essentials/navigation",
               "essentials/reusable-snippets"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Accounts",
+        "groups": [
+          {
+            "group": "利用規約・注意事項",
+            "pages": [
+              "docs/account-tos"
             ]
           }
         ]
