@@ -33,7 +33,8 @@
           {
             "group": "Discordサーバー",
             "pages": [
-              "docs/discord-tos"
+              "docs/discord-tos",
+              "docs/vending-tos"
             ]
           },
           {
