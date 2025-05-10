@@ -24,6 +24,13 @@
             ]
           },
           {
+            "group": "利用規約・注意事項",
+            "pages": [
+              "docs/tos",
+              "docs/caution"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
