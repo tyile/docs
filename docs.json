@@ -19,14 +19,8 @@
           {
             "group": "Marshal-Service",
             "pages": [
-              "docs/marshal-service/introduction",
+              "docs/introduction",
               "docs/reseller"
-            ]
-          },
-          {
-            "group": "利用規約・注意事項",
-            "pages": [
-              "docs/tos"
             ]
           },
           {
