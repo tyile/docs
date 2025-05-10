@@ -19,11 +19,12 @@
           {
             "group": "Marshal-Service",
             "pages": [
-              "index"
+              "index",
+              "reseller/reseller"
             ]
           },
           {
-            "group": "Terms of Service",
+            "group": "利用規約・注意事項",
             "pages": [
               "Tos/tos"
             ]
