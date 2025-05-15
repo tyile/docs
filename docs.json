@@ -14,7 +14,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Main",
+        "tab": "Marshal-Service",
         "groups": [
           {
             "group": "Marshal-Service",
@@ -51,7 +51,7 @@
         ]
       },
       {
-        "tab": "Accounts",
+        "tab": "商品一覧",
         "groups": [
           {
             "group": "利用規約・注意事項",
@@ -91,7 +91,7 @@
     "primary": {
       "type": "button",
       "label": "Discord Server",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://marshal-verification.vercel.app"
     }
   },
   "footer": {
