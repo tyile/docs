@@ -56,7 +56,17 @@
           {
             "group": "利用規約・注意事項",
             "pages": [
-              "docs/account-tos"
+              "docs/account-tos",
+              "docs/stone-tos",
+              "docs/subscription-tos"
+            ]
+          },
+          {
+            "group": "取扱アカウント一覧",
+            "pages": [
+              "docs/account-tos",
+              "docs/stone-tos",
+              "docs/subscription-tos"
             ]
           }
         ]
