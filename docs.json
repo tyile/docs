@@ -64,9 +64,11 @@
           {
             "group": "取扱アカウント一覧",
             "pages": [
-              "docs/account-tos",
-              "docs/stone-tos",
-              "docs/subscription-tos"
+              "products/monster-strike",
+              "products/rank-ready",
+              "products/stone",
+              "products/subscription",
+              "products/valorant"
             ]
           }
         ]
