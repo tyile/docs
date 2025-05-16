@@ -70,6 +70,15 @@
               "products/subscription",
               "products/valorant"
             ]
+          },
+          {
+            "group": "ログイン方法",
+            "pages": [
+              "login-instruction/monster-strike",
+              "login-instruction/bounty",
+              "login-instruction/pokepoke",
+              "login-instruction/puroseka"
+            ]
           }
         ]
       },
